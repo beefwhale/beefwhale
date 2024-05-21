@@ -1,4 +1,5 @@
 ### Hello there, I'm Yongqing 👋
+[Check out my blog!](beefwhale.github.io)
 
 <!--
 **beefwhale/beefwhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
